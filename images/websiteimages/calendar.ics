@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://www.eventbrite.com/e/thinkful-san-diego-halloween-headshot-family-dinner-tickets-51474554779
+DTSTART:20181030T010000Z
+DTEND:20181030T030000Z
+SUMMARY:Thinkful San Diego: Halloween Headshot Family Dinner
+DESCRIPTION:For details, click here: https://www.eventbrite.com/e/thinkful-san-diego-halloween-headshot-family-dinner-tickets-51474554779
+LOCATION:DeskHub - 2159 India Street - San Diego, CA 92101
+END:VEVENT
+END:VCALENDAR
