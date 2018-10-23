@@ -37,7 +37,7 @@ main {}
     bottom: 200px;
     right: 10px;
 */
-    padding-top: 230px;
+    padding-top: 120px;
     color: rgb(247, 247, 247);
 }
 
@@ -359,7 +359,7 @@ footer img {
         height: 45px;
     }
     .stmt {
-        padding-top: 195px;
+        padding-top: 100px;
         font-size: 18px;
     }
     h1 {
